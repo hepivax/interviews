@@ -14,7 +14,7 @@ import org.junit.jupiter.api.Test;
 public class StringOperarions {
 	
 	/**
-	 * Return the index number of the starting character in case that String x contains string y
+	 * Returns the index number of the starting character in case that string x contains string y
 	 * If String x does not contains String y, -1 is returned
 	 * @param x
 	 * @param y
